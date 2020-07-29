@@ -1,6 +1,6 @@
 version: "3"
 
 services:
-  go-test:
+  go-ci:
     image: zenatureza/go-ci
     build: .
